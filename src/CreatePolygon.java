@@ -6,8 +6,8 @@ import java.util.Iterator;
 public class CreatePolygon {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
+		//I have commented the earlier code and replaced a new code
 		Triangle t1 = new Triangle();
 		t1.getPoints(new Point(0, 0), new Point(10, 0), new Point(0, 10));
 		
